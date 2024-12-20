@@ -1,0 +1,33 @@
+@media(max-width:992px) {
+    .temp_form {
+        width: 80%;
+    }
+}
+
+@media(max-width:768px) {
+    .main-header-left {
+        height: auto;
+        margin: 50px 0;
+    }
+
+    .main-header-right {
+        height: auto;
+        margin-top: 30px;
+    }
+
+    .temp_form {
+        width: auto;
+    }
+
+    .temp_information {
+        width: auto;
+    }
+
+    .main_layer .midlle_layer i {
+        font-size: 50px;
+    }
+
+    .main_layer .midlle_layer p {
+        font-size: 50px;
+    }
+}
